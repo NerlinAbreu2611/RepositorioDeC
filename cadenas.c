@@ -5,5 +5,8 @@ int contarCaracteres(char x[]){
         a++;
     }
 
+
+    //Establecer comentario
+    
     return a;
 }
