@@ -12,6 +12,9 @@ struct nodo {
 
 pila *raiz = NULL;
 
+void probarEnlance(){
+ printf("El repositorio se enlaza excelente");
+}
 
 void agregar(int x){
   
